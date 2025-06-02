@@ -1,7 +1,7 @@
 # Awes, Laws and Flaws From Today's LLM Research
 
 
-This repository includes everything to reproduce the latest version of the paper [Awes, Laws, and Flaws From Today's LLM Research](https://www.arxiv.org/abs/2408.15409). 
+This repository includes everything to reproduce the latest version of the paper [Awes, Laws, and Flaws From Today's LLM Research](https://www.arxiv.org/abs/2408.15409), accepted to ACL 2025 Findings.
 
 There are a few caveats because of legal/ethical reasons:
 1. The data is pseudonymised (no text, author names, or LLM-output reasons), so certain bits of the notebook won't work.
